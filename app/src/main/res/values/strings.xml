@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sebastian Garcia</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">I am a software Engineer with experience in mobile development using Java MVP as architecture pattern.
+
+        \n\nI like challenges and this is what i like the most of being a software developer
+        \n\ni like to learn and i learn really fast, i like to study new technologies and i like to be update about new practices of mobile development.
+        \n\nLooking for company who help me to grow as an engineer and as a person, and i want to help the company to grow up with my knowledge and my enthusiasm.
+    \n\n Thanks for downloading my app and i hope this was really helpful to you, it was for me :D</string>
+    <string name="whatisyour_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
